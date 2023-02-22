@@ -1,0 +1,8 @@
+--Financial Analysis--
+-------------------------
+Total Months: 86
+Net total of profits/losses: $22,564,198.00
+Average change of profits/losses: $262,374.40
+Greatest increase in profits: (Mar-13) $1,141,840.00
+Greatest decrease in profits: (Dec-10) $-1,194,133.00
+-------------------------
